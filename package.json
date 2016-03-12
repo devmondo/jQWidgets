@@ -1,7 +1,7 @@
 {
   "name": "jqwidgets-framework",
   "version": "4.0.0",
-  "main":"jqwidgets/jqx-all.js"
+  "main": "jqwidgets/jqx-all.js"
   "description": "jQWidgets is an advanced jQuery and HTML5 UI framework.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
