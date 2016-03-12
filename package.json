@@ -1,0 +1,28 @@
+{
+  "name": "jqwidgets-framework",
+  "version": "4.0.0",
+  "main":"jqwidgets/jqx-all.js"
+  "description": "jQWidgets is an advanced jQuery and HTML5 UI framework.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jqwidgets/jQWidgets"
+  },
+  "keywords": [
+    "JavaScript",
+    "jQuery",
+    "HTML5",
+    "jQWidgets",
+    "UI",
+    "widget",
+	"AngularJS"
+  ],
+  "author": "jQWidgets <support@jqwidgets.com> (http://www.jqwidgets.com/)",
+  "license": "http://www.jqwidgets.com/license/",
+  "bugs": {
+    "url": "http://www.jqwidgets.com/community/"
+  },
+  "homepage": "http://www.jqwidgets.com/"
+}
